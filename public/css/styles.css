@@ -1,0 +1,9 @@
+body {
+    background: url("../img/violet14.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.container {
+    font-weight: bold;
+}
